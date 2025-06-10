@@ -2,3 +2,4 @@ pandas>=0.23.0
 numpy>=1.14.0
 pytrends>=4.4.0
 beautifulsoup4>=4.0.0
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
